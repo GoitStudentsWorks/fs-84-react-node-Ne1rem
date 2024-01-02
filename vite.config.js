@@ -12,5 +12,5 @@ export default defineConfig({
           assets: '/src/assets'
         },
       },
-      base: '/food_diary',
+      base: '/fs-84-react-node-Ne1rem',
     });
